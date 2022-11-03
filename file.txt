@@ -1,2 +1,3 @@
 file.txt
  HI , this is sherpa from nyc.
+ adding this line for merge conflict
