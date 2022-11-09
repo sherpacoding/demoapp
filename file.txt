@@ -1,11 +1,3 @@
-file.txt
-<<<<<<< HEAD
-<<<<<<< HEAD
+
  HI , this is sherpa from nyc.
  adding this line for merge conflict
-=======
->>>>>>> ba439c2 (commited file.txt)
-=======
- HI , this is sherpa from nyc.
- adding this line for merge conflict
->>>>>>> 27addac (also modified file.txt)
