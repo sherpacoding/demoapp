@@ -1,0 +1,5 @@
+file.txt
+ HI , this is sherpa from nyc.
+ i'm adding this line for testing rebase branch
+ i'm deliberately adding this line to let merge conflict
+ adding this line for merge conflict.restore
